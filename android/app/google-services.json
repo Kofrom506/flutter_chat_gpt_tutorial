@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107485142145",
+    "project_id": "flutterchatbot-1565f",
+    "storage_bucket": "flutterchatbot-1565f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107485142145:android:574c49c33712f227a98180",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_gpt_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107485142145-piq2jcdb8f8l4fhrsuhokc6m44f4gk0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhplCBL7rlfdvWNX4KEwUrdhIo3st2V8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107485142145-piq2jcdb8f8l4fhrsuhokc6m44f4gk0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
